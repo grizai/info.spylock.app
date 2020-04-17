@@ -37,18 +37,6 @@ Remember to activate the protection using the ON/OFF switch to enable the protec
 
 </details>
 
-<details><summary>I have a request for a new feature.</summary>
-
-Please send us you feature request at <a href="mailto:feedback@spylock.app">feedback@spylock.app</a>. SpyLock is a very recent app and we are working hard to improve it. 
-
-We are currently working on:
-- increasing the number of digit in your secret code.
-- adding a grace period parameter so that app can remain unlocked for a small period of time if you have to multi-task.
-- adding more skins so you can personalize it
-
-</details>
-
-
 <details><summary>How can I protect against an intruder trying to uninstall my apps?</summary>
 
 The best protection is to use SpyLock as your screen lock by selecting the *"Use SpyLock as screen lock"* option in the settings. This will protect from an intruder getting access into your phone in the first place.
@@ -101,6 +89,17 @@ Click on the text *"Forgotten code"* at the bottom of the lock screen. A new win
 Email us the unique ID that will show to recovery@spylock.app. We will then send your recovery key at the recovery email you registered, but we might ask for some additional information to verify it is you.
 
 Your unique ID can also be found at the bottom of the About page by clicking on the Menu icon then About.
+
+</details>
+
+<details><summary>I have a request for a new feature.</summary>
+
+Please send us you feature request at <a href="mailto:feedback@spylock.app">feedback@spylock.app</a>. SpyLock is a very recent app and we are working hard to improve it. 
+
+We are currently working on:
+- increasing the number of digit in your secret code.
+- adding a grace period parameter so that app can remain unlocked for a small period of time if you have to multi-task.
+- adding more skins so you can personalize it
 
 </details>
 
