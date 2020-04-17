@@ -11,7 +11,12 @@ h1 {
 }
 
 h2 {
-    text-indent: 1em;
+    text-indent: 0em;
     font-size: 0.9rem;
+}
+
+h3 {
+    text-indent: 1em;
+    font-size: 0.85rem;
 }
 

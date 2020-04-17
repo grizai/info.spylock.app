@@ -4,61 +4,158 @@ layout: legal
 
 # Privacy Policy
 
-GrizAI Ltd built the SpyLock app as a Commercial app. This SERVICE is provided by GrizAI Ltd and is intended for use as is.
+<p style="text-align: center; font-style: italic;">Last updated {{ site.time | date: '%d/%m/%Y' }}</p>
 
-This page is used to inform visitors regarding our policies with the collection, use, and disclosure of Personal Information if anyone decided to use our Service.
+Thank you for choosing to be part of our community at GrizAI Ltd (“Company”, “we”, “us”, or “our”). GrizAI Ltd built the SpyLock app as a Commercial app. This page is used to inform our users and visitors regarding our policies with the collection, use, and disclosure of Personal Information if anyone decided to use our Service.
 
-If you choose to use our Service, then you agree to the collection and use of information in relation to this policy. The Personal Information that we collect is used for providing and improving the Service. we will not use or share your information with anyone except as described in this Privacy Policy.
+We are committed to protecting your personal information and your right to privacy. If you have any questions or concerns about our policy, or our practices with regards to your personal information, please contact us at privacy@spylock.app.
 
-The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which is accessible at SpyLock unless otherwise defined in this Privacy Policy.
+When you visit our websites and use our services, you trust us with your personal information. We take your privacy very seriously. In this privacy policy, we seek to explain to you in the clearest way possible what information we collect, how we use it and what rights you have in relation to it. We hope you take some time to read through it carefully, as it is important. 
 
-## 1. Information Collection and Use
+If you choose to use our Service, then you agree to the collection and use of information in relation to this policy. The Personal Information that we collect is used for providing and improving the Service. We will not use or share your information with anyone except as described in this Privacy Policy. If there are any terms in this privacy policy that you do not agree with, please discontinue use of our and our services.
 
-For a better experience, while using our Service, we may require you to provide us with certain personally identifiable information, including but not limited to your email and messages you might send in response to customer surveys or via email to our support team. The information that we request will be retained by us and used as described in this privacy policy.
+This privacy policy applies to all information collected through our and/or any related services, sales, marketing or events (we refer to them collectively in this privacy policy as the "Services"). Please read this privacy policy carefully as it will help you make informed decisions about sharing your personal information with us.
 
-For your security, we automatically collect a unique recovery key associated with the app. If you forget your code, this allows us to send you the recovery key associated with the app using an email you provided us.
 
-The app does use third party services that may collect or receive analytics information and use that information to identify you and/or provide measurement services and/or targeted ads. Third party services are subject to their respective privacy policy as listed below:
+## TABLE OF CONTENTS
 
-*   [Google Play Services](https://www.google.com/policies/privacy/)
-*   [Google Analytics for Firebase](https://firebase.google.com/policies/analytics)
-*   [Firebase Crashlytics](https://firebase.google.com/support/privacy/)
-*   [Facebook](https://www.facebook.com/about/privacy/update/printable)
+1. [WHAT INFORMATION DO WE COLLECT?](#section-1)
+2. [WILL YOUR INFORMATION BE SHARED WITH ANYONE?](#section-2)
+3. [DO WE USE COOKIES AND OTHER TRACKING TECHNOLOGIES?](#section-3)
+4. [HOW DO WE HANDLE YOUR SOCIAL LOGINS?](#section-4)
+5. [IS YOUR INFORMATION TRANSFERRED INTERNATIONALLY?](#section-5)
+6. [WHAT IS OUR STANCE ON THIRD-PARTY WEBSITES?](#section-6)
+7. [HOW LONG DO WE KEEP YOUR INFORMATION?](#section-7)
+8. [DO WE COLLECT INFORMATION FROM MINORS?](#section-8)
+9. [WHAT ARE YOUR PRIVACY RIGHTS?](#section-9)
+10. [CONTROLS FOR DO-NOT-TRACK FEATURES](#section-10)
+11. [DO CALIFORNIA RESIDENTS HAVE SPECIFIC PRIVACY RIGHTS?](#section-11)
+12. [DO WE MAKE UPDATES TO THIS POLICY?](#section-12)
+13. [HOW TO CONTACT THE APPROPRIATE AUTHORITY?](#section-13)
+14. [HOW CAN YOU CONTACT US ABOUT THIS POLICY?](#section-14)
 
-## 2. Log Data
+<a id="section-1"></a>
+## 1. WHAT INFORMATION DO WE COLLECT?
 
-We want to inform you that whenever you use our Service, in a case of an error in the app we collect data and information (through third party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when utilizing our Service, the time and date of your use of the Service, and other statistics.
+### Personal information you disclose to us
 
-## 3. Cookies
+*In Short:  We collect personal information that you provide to us.*
+
+We collect personal information that you voluntarily provide to us when registering at the expressing an interest in obtaining information about us or our products and services, when participating in activities (such as posting messages in our online forums or entering competitions, contests or giveaways) or otherwise contacting us.
+
+The personal information that we collect depends on the context of your interactions with us, the choices you make and the products and features you use. The personal information we collect can include the following: 
+
+* Data related to the SpyLock app. We may provide with the option to register a recovery email, as well as various communication channels to respond to customer surveys or send requests or comments via email. The information that we request will be retained by us and used as described in this privacy policy.
+
+* Social Media Login Data. We may provide you with the option to register using social media account details, like your Facebook, Twitter or other social media account. If you choose to register in this way, we will collect the Information described in the section called "HOW DO WE HANDLE YOUR SOCIAL LOGINS" below.
+
+All personal information that you provide to us must be true, complete and accurate, and you must notify us of any changes to such personal information.
+
+### Information automatically collected
+
+*In Short:   Some information — such as IP address and/or browser and device characteristics — is collected automatically when you visit or use our services.*
+
+We automatically collect certain information when you visit, use or navigate our services. This information does not reveal your specific identity (like your name or contact information) but may include device and usage information, such as your IP address, browser and device characteristics, operating system, language preferences, referring URLs, device name, country, location, information about how and when you use our and other technical information. This information is primarily needed to maintain the security and operation of our services, and for our internal analytics and reporting purposes.
+
+The information automatically collected can include the following:
+
+* Data related to the SpyLock app. For your security, we automatically collect a unique recovery key associated with the app. If you forget your code, this allows us to send you the recovery key associated with the app using an email you provided us.
+
+* The app does use third party services that may collect or receive analytics information and use that information to identify you and/or provide measurement services and/or targeted ads. Third party services are subject to their respective privacy policy as listed below:
+
+    *   [Google Play Services](https://www.google.com/policies/privacy/)
+    *   [Google Analytics for Firebase](https://firebase.google.com/policies/analytics)
+    *   [Firebase Crashlytics](https://firebase.google.com/support/privacy/)
+    *   [Facebook](https://www.facebook.com/about/privacy/update/printable)
+
+Like many businesses, we also collect information through cookies and similar technologies.
+
+<a id="section-2"></a>
+## 2. WILL YOUR INFORMATION BE SHARED WITH ANYONE?
+
+*In Short:  We only share information with your consent, to comply with laws, to provide you with services, to protect your rights, or to fulfill business obligations.*
+
+We may process or share data based on the following legal basis:
+
+* **Consent:** We may process your data if you have given us specific consent to use your personal information in a specific purpose.
+
+* **Legitimate Interests:** We may process your data when it is reasonably necessary to achieve our legitimate business interests.
+
+* **Performance of a Contract:** Where we have entered into a contract with you, we may process your personal information to fulfill the terms of our contract.
+
+* **Legal Obligations:** We may disclose your information where we are legally required to do so in order to comply with applicable law, governmental requests, a judicial proceeding, court order, or legal process, such as in response to a court order or a subpoena (including in response to public authorities to meet national security or law enforcement requirements).
+
+* **Vital Interests:** We may disclose your information where we believe it is necessary to investigate, prevent, or take action regarding potential violations of our policies, suspected fraud, situations involving potential threats to the safety of any person and illegal activities, or as evidence in litigation in which we are involved.
+
+* **Vendors, Consultants and Other Third-Party Service Providers.** We may share your data with third party vendors, service providers, contractors or agents who perform services for us or on our behalf and require access to such information to do that work. Examples include: payment processing, data analysis, email delivery, hosting services, customer service and marketing efforts. We may allow selected third parties to use tracking technology on our services, which will enable them to collect data about how you interact with the over time. This information may be used to, among other things, analyze and track data, determine the popularity of certain content and better understand online activity. Unless described in this Policy, we do not share, sell, rent or trade any of your information with third parties for their promotional purposes.
+
+* **Business Transfers.** We may share or transfer your information in connection with, or during negotiations of, any merger, sale of company assets, financing, or acquisition of all or a portion of our business to another company.
+
+* **Third-Party Advertisers.** We may use third-party advertising companies to serve ads when you visit or use our services. These companies may use information about your visits to our Website(s) and other websites or services that are contained in web cookies and other tracking technologies in order to provide advertisements about goods and services of interest to you.
+
+* **Affiliates.** We may share your information with our affiliates, in which case we will require those affiliates to honor this privacy policy. Affiliates include our parent company and any subsidiaries, joint venture partners or other companies that we control or that are under common control with us.
+
+* **Business Partners.** We may share your information with our business partners to offer you certain products, services or promotions.
+
+* **Other Users.** When you share personal information or otherwise interact with public areas of our services, such personal information may be viewed by all users and may be publicly distributed outside the services in perpetuity. If you interact with other users of our services and register through a social network (such as Facebook), your contacts on the social network will see your name, profile photo, and descriptions of your activity. Similarly, other users will be able to view descriptions of your activity, communicate with you within our services, and view your profile.
+
+<a id="section-3"></a>
+## 3. DO WE USE COOKIES AND OTHER TRACKING TECHNOLOGIES?
+
+*In Short:  We may use cookies and other tracking technologies to collect and store your information.*
 
 Cookies are files with a small amount of data that are commonly used as anonymous unique identifiers. These are sent to your browser from the websites that you visit and are stored on your device's internal memory.
 
-This Service does not use these “cookies” explicitly. However, the app may use third party code and libraries that use “cookies” to collect information and improve their services. You have the option to either accept or refuse these cookies and know when a cookie is being sent to your device. If you choose to refuse our cookies, you may not be able to use some portions of this Service.
+We may use cookies and similar tracking technologies (like web beacons and pixels) to access or store information. Specific information about how we use such technologies and how you can refuse certain cookies is set out in our [Cookie Policy](../cookie_policy).
 
-## 4. Service Providers
+<a id="section-4"></a>
+## 4. HOW DO WE HANDLE YOUR SOCIAL LOGINS?
 
-We may employ third-party companies and individuals due to the following reasons:
+*In Short: If you choose to register or log in to our services using a social media account, we may have access to certain information about you services.*
 
-*   To facilitate our Service;
-*   To provide the Service on our behalf;
-*   To perform Service-related services; or
-*   To assist us in analyzing how our Service is used.
+Our offer you the ability to register and login using your third party social media account details (like your Facebook or Twitter logins). Where you choose to do this, we will receive certain profile information about you from your social media provider. The profile Information we receive may vary depending on the social media provider concerned, but will often include your name, e-mail address, friends list, profile picture as well as other information you choose to make public.
 
-We want to inform users of this Service that these third parties have access to your Personal Information. The reason is to perform the tasks assigned to them on our behalf. However, they are obligated not to disclose or use the information for any other purpose.
+We will use the information we receive only for the purposes that are described in this privacy policy or that are otherwise made clear to you on the services. Please note that we do not control, and are not responsible for, other uses of your personal information by your third party social media provider. We recommend that you review their privacy policy to understand how they collect, use and share your personal information, and how you can set your privacy preferences on their sites and apps.
 
-## 5. Security
+<a id="section-5"></a>
+## 5. IS YOUR INFORMATION TRANSFERRED INTERNATIONALLY?
+
+*In Short:  We may transfer, store, and process your information in countries other than your own.*
+
+Our servers are located in the United Kingdom. If you are accessing our services from outside, please be aware that your information may be transferred to, stored, and processed by us in our facilities and by those third parties with whom we may share your personal information (see "WILL YOUR INFORMATION BE SHARED WITH ANYONE?" above), in and other countries.
+
+If you are a resident in the European Economic Area, then these countries may not have data protection or other laws as comprehensive as those in your country. We will however take all necessary measures to protect your personal information in accordance with this privacy policy and applicable law. 
+
+<a id="section-6"></a>
+## 6. WHAT IS OUR STANCE ON THIRD-PARTY WEBSITES?
+
+*In Short:  We are not responsible for the safety of any information that you share with third-party providers who advertise, but are not affiliated with, our websites.*
+
+The services may contain advertisements from third parties that are not affiliated with us and which may link to other websites, online services or mobile applications. We cannot guarantee the safety and privacy of data you provide to any third parties. Any data collected by third parties is not covered by this privacy policy. We are not responsible for the content or privacy and security practices and policies of any third parties, including other websites, services or applications that may be linked to or from the services. You should review the policies of such third parties and contact them directly to respond to your questions.
+
+
+<a id="section-7"></a>
+## 7. HOW LONG DO WE KEEP YOUR INFORMATION?
+
+*In Short:  We keep your information for as long as necessary to fulfill the purposes outlined in this privacy policy unless otherwise required by law.*
+
+We will only keep your personal information for as long as it is necessary for the purposes set out in this privacy policy, unless a longer retention period is required or permitted by law (such as tax, accounting or other legal requirements).
+
+When we have no ongoing legitimate business need to process your personal information, we will either delete or anonymize it, or, if this is not possible (for example, because your personal information has been stored in backup archives), then we will securely store your personal information and isolate it from any further processing until deletion is possible.
 
 We value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable, and we cannot guarantee its absolute security.
 
-## 6. Links to Other Sites
+<a id="section-8"></a>
+## 8. DO WE COLLECT INFORMATION FROM MINORS?
 
-This Service may contain links to other sites. If you click on a third-party link, you will be directed to that site. Note that these external sites are not operated by us. Therefore, we strongly advise you to review the Privacy Policy of these websites. we have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services.
+*In Short:  We do not knowingly collect data from or market to children under 13 years of age.*
 
-## 7. Children’s Privacy
+We do not knowingly solicit data from or market to children under 13 years of age. By using the services, you represent that you are at least 13 or that you are the parent or guardian of such a minor and consent to such minor dependent’s use of the services. If we learn that personal information from users less than 13 years of age has been collected, we will deactivate the account and take reasonable measures to promptly delete such data from our records. If you become aware of any data we have collected from children under age 13, please contact us at privacy@spylock.app so that we will be able to do necessary actions.
 
-These Services do not address anyone under the age of 13. We do not knowingly collect personally identifiable information from children under 13. In the case we discover that a child under 13 has provided us with personal information, we immediately delete this from our servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact us so that we will be able to do necessary actions.
+<a id="section-9"></a>
+## 9. WHAT ARE YOUR PRIVACY RIGHTS?
 
-## 8. Protection rights
+*In Short:  Based on the laws of some countries, you may have the right to request access to the personal information we collect from you, change that information, or delete it in some circumstances.*
 
 Our Company would like to make sure you are fully aware of all of your data protection rights. Every user is entitled to the following:
 
@@ -74,18 +171,57 @@ The right to object to processing – You have the right to object to Our Compan
 
 The right to data portability – You have the right to request that Our Company transfer the data that we have collected to another organization, or directly to you, under certain conditions set by law.
 
-If you make a request, we have one month to respond to you. If you would like to exercise any of these rights, please contact us at our email: privacy@spylock.app
+If you would like to exercise any of these rights, please contact us at our email: privacy@spylock.app. We will respond to your request within 30 days.
 
-## 9. How to contact the appropriate authority
+### Account Information
+
+If you would at any time like to review or change the information in your account or terminate your account, you can:
+
+Upon your request to terminate your account, we will deactivate or delete your account and information from our active databases. However, some information may be retained in our files to prevent fraud, troubleshoot problems, assist with any investigations, enforce our Terms of Use and/or comply with legal requirements.
+
+Opting out of email marketing: You can unsubscribe from our marketing email list at any time by clicking on the unsubscribe link in the emails that we send or by contacting us using the details provided below. You will then be removed from the marketing email list – however, we will still need to send you service-related emails that are necessary for the administration and use of your account.
+
+<a id="section-10"></a>
+## 10. CONTROLS FOR DO-NOT-TRACK FEATURES
+
+Most web browsers and some mobile operating systems and mobile applications include a Do-Not-Track (“DNT”) feature or setting you can activate to signal your privacy preference not to have data about your online browsing activities monitored and collected. No uniform technology standard for recognizing and implementing DNT signals has been finalized. As such, we do not currently respond to DNT browser signals or any other mechanism that automatically communicates your choice not to be tracked online. If a standard for online tracking is adopted that we must follow in the future, we will inform you about that practice in a revised version of this privacy policy.
+
+
+<a id="section-11"></a>
+## 11. DO CALIFORNIA RESIDENTS HAVE SPECIFIC PRIVACY RIGHTS?
+
+*In Short:  Yes, if you are a resident of California, you are granted specific rights regarding access to your personal information.*
+
+California Civil Code Section 1798.83, also known as the “Shine The Light” law, permits our users who are California residents to request and obtain from us, once a year and free of charge, information about categories of personal information (if any) we disclosed to third parties for direct marketing purposes and the names and addresses of all third parties with which we shared personal information in the immediately preceding calendar year. If you are a California resident and would like to make such a request, please submit your request in writing to us using the contact information provided below.
+
+If you are under 18 years of age, reside in California, and have a registered account with the services, you have the right to request removal of unwanted data that you publicly post on the services. To request removal of such data, please contact us using the contact information provided below, and include the email address associated with your account and a statement that you reside in California. We will make sure the data is not publicly displayed on the services, but please be aware that the data may not be completely or comprehensively removed from our systems.
+
+<a id="section-12"></a>
+## 12. DO WE MAKE UPDATES TO THIS POLICY?
+
+*In Short:  Yes, we will update this policy as necessary to stay compliant with relevant laws.*
+
+We may update this privacy policy from time to time. The updated version will be indicated by an updated “Revised” date and the updated version will be effective as soon as it is accessible. If we make material changes to this privacy policy, we may notify you either by prominently posting a notice of such changes or by directly sending you a notification. We encourage you to review this privacy policy frequently to be informed of how we are protecting your information.
+
+<a id="section-13"></a>
+## 13. HOW TO CONTACT THE APPROPRIATE AUTHORITY?
 
 Should you wish to report a complaint or if you feel that Our Company has not addressed your concern in a satisfactory manner, you may contact the Information Commissioner’s Office via their website at https://ico.org.uk.
 
-## 10. Changes to This Privacy Policy
+If you are resident in the European Economic Area and you believe we are unlawfully processing your personal information, you also have the right to complain to your local data protection supervisory authority. You can find their contact details here: http://ec.europa.eu/justice/data-protection/bodies/authorities/index_en.htm.
 
-We may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. We will notify you of any changes by posting the new Privacy Policy on this page.
+<a id="section-14"></a>
+## 14. HOW CAN YOU CONTACT US ABOUT THIS POLICY?
 
-This policy is effective as of 16 April 2020.
+GrizAI Ltd company registered in the United Kingdom. If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at privacy@spylock.app or by post to: GRIZAI LTD, 272 Bath Street, Glasgow, Lanarkshire G2 4JR, United Kingdom
 
-## 11. Contact Us
 
-GrizAI Ltd company registered in the United Kingdom. If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at privacy@spylock.app
+
+
+
+
+
+
+
+
+
