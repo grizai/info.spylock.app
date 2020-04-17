@@ -2,7 +2,7 @@
 layout: default
 ---
 
-For now, this website only host pages used inside the SpyLock app. 
+This website host informative and legal pages used the SpyLock app. 
 
 - [FAQ](faq)
 - [About](about)
