@@ -12,3 +12,7 @@ You can find our company policies and terms at the links below:
 - [Terms and Conditions]({{ site.baseurl }}/terms_and_conditions)
 - [Cookie Policy]({{ site.baseurl }}/cookie_policy)
 - [Disclaimer]({{ site.baseurl }}/disclaimer)
+
+---
+
+Thanks to Pablo Stanley for designing and sharing the [humaaans.com](https://www.humaaans.com/) library (CC BY 4.0)
