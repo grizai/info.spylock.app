@@ -1,0 +1,87 @@
+---
+---
+
+// see more info below
+// https://jekyllrb.com/docs/assets/
+// https://codepen.io/NielsVoogt/pen/YbaNPd
+
+html {
+	box-sizing: border-box;
+}
+
+body {
+	background: #edf2f7;
+	color: #4a5568;
+	height: 100%;
+}
+
+*,
+*:before,
+*:after {
+	box-sizing: inherit;
+}
+
+$details-padding: 1em;
+
+details {
+	font-size: 1rem;
+	margin: 1em auto;
+	box-shadow: 0 20px 25px -5px rgba(0, 0, 0, 0.1),
+		0 10px 10px -5px rgba(0, 0, 0, 0.04);
+	width: 100%;
+	background: #ffffff;
+	border-radius: 8px;
+	position: relative;
+    width: 100%;
+
+	.summary-title {
+        user-select: none;
+    }
+    
+	&:hover {
+		cursor: pointer;
+	}
+
+	.summary-content {
+		border-top: 1px solid #e2e8f0;
+		cursor: default;
+		padding: $details-padding;
+		font-weight: 300;
+		line-height: 1.5;
+	}
+
+	summary {
+        padding: $details-padding;
+        padding-right: 48px;
+
+		&:focus {
+			outline: none;
+		}
+
+		&:hover .summary-chevron-up svg {
+			opacity: 1;
+        }
+    
+	}
+
+	.summary-chevron-up svg {
+		opacity: 0.5;
+	}
+
+	.summary-chevron-up,
+	.summary-chevron-down {
+		pointer-events: none;
+		position: absolute;
+		top: 0.75em;
+		right: $details-padding;
+        background: #ffffff;
+
+		svg {
+			display: block;
+		}
+	}
+
+	summary::-webkit-details-marker {
+		display: none;
+	}
+}
